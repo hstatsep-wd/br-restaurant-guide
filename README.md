@@ -28,12 +28,29 @@ This will be the workflow for most _(but not all)_ pair activities.  `Git` used 
 ## Task 2: 
 
 1. Notice that the **American** section is completely finished.  All links direct the user to the appropriate file/website.  
-  a. _IMPORTANT: the links only work when viewed on GitHub.  Only one markdown file can be previewed at a time on cloud9, so the links will not appear to work until_ `push`_ed to GitHub._
+  a. _**IMPORTANT**: the links only work when viewed on GitHub.  On cloud9, only one markdown file can be previewed at a time_ (`404 error`)_, so the links will not appear to work until_ `push`_ed to GitHub._
 2. Your task is to update the links for the entire **Asian** section.  The restaurants are divided into sub-categories of Asian food.
 
-NOTE: You are doing this collaboratively!  Split up the work, add/commit/push, and pull / resolve conflicts when necessary.  This activity serves two purposes: **practice linking files** and **practice collaboration**.
+NOTE: You are doing this collaboratively!  Split up the work, add/commit/push, and pull & resolve conflicts when necessary.  This activity serves two purposes: **practice linking files** and **practice collaboration**.
 
 ---
 
 ## Task 3:
 
+1. Add a new food category: **European**.  It should have a sub-category structure, just like **Asian** did:  
+
+
+* Greek  
+  * Omonia Cafe  
+  * Something Greek  
+* Mediterranean  
+  * Tanoreen  
+  * The Family Store  
+  
+Like **Task 2**: divide & conquer, push and pull.
+
+---
+
+## Task 4:
+
+Add your own section(s)!
