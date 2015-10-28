@@ -5,4 +5,4 @@ Select a restaurant:
 ## [McDonald's](http://www.mcdonalds.com/)
 ## [Burger Bistro](http://www.theburgerbistro.com/)
 ---
-[Home](../home.md)
+[Start Over](../home.md)

@@ -6,4 +6,4 @@ Select a specific Asian food:
 ## Japanese
 ## Thai
 ---
-Home
+Start Over
