@@ -2,8 +2,8 @@
 ## Asian --> Thai
 ---
 Select a restaurant:
-## Bay Thai
-## Glow Thai
+## Bay Thai http://www.brooklynbaythai.com/
+## Glow Thai http://glowthai.com/
 ---
 Back to Asian  
 Start Over
