@@ -2,7 +2,7 @@
 ## Asian --> Chinese
 ---
 Select a restaurant:
-## Taste of China http://www.brooklyntasteofchina.com/
+## Panda https://www.pandabrooklyn.com/
 ---
 Back to Asian  
 Start Over
