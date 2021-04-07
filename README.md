@@ -18,7 +18,7 @@ Click [here](home.md) to begin!
 
 ## Task 1: Getting Started
 
-1. Partner up. One person needs to fork this repo and add the other partner as a collaborator.
+1. Partner up. One person needs to fork this repo and add the other partner as a collaborator. The collaborator needs to open their email to accept the invitation.  
 2. You both need to clone the forked repo into `~/wd/classwork/`. 
 
 This will be the workflow for most _(but not all)_ pair activities. `Git` used to it!
