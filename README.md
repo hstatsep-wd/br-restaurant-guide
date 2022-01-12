@@ -53,4 +53,6 @@ Like **Task 2**: divide & conquer, push and pull.
 
 ## Task 4: Extension
 
-Add your own section(s)! You do not need to finish this. But if you finish Tasks 1-3 in class, start this task!
+Add your own section(s)! 
+
+You do not need to finish this. But if you finish Tasks 1-3 in class, start this task!
