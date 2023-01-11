@@ -19,7 +19,7 @@ Click [here](home.md) to begin!
 ## Task 1: Getting Started
 
 1. Partner up. One person needs to fork this repo and add the other partner as a collaborator. The collaborator needs to open their email to accept the invitation.
-2. You both need to clone the forked repo into `~/wd/classwork/`.
+2. You both need to clone the forked repo into `wd/classwork/`.
 
 This will be the workflow for most _(but not all)_ pair activities. `Git` used to it!
 
@@ -27,7 +27,7 @@ This will be the workflow for most _(but not all)_ pair activities. `Git` used t
 
 ## Task 2:
 
-1. Notice that the **American** section is completely finished.  All links direct the user to the appropriate file/website.  
+1. Notice that the **American** section is completely finished.  All links direct the user to the appropriate file/website.  ∑
 2. Your task is to update the links for the entire **Asian** section.  The restaurants are divided into sub-categories of Asian food.
 
 NOTE: You are doing this collaboratively!  Split up the work, add/commit/push, and pull & resolve conflicts when necessary.  This activity serves two purposes: **practice linking files** and **practice collaboration**.
