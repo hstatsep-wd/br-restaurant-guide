@@ -44,7 +44,7 @@ NOTE: You are doing this collaboratively!  Split up the work, add/commit/push, a
   * Something Greek
 * Mediterranean
   * Tanoreen
-  * The Family Store
+  * Samia's
 
 Like **Task 2**: divide & conquer, push and pull.
 
