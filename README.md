@@ -46,7 +46,7 @@ NOTE: You are doing this collaboratively!  Split up the work, add/commit/push, a
   * Something Greek
 * Mediterranean
   * Tanoreen
-  * Samia's
+  * Le Sajj
 
 Like **Task 2**: divide & conquer, push and pull.
 
