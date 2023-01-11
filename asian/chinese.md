@@ -2,7 +2,7 @@
 ## Asian --> Chinese
 ---
 Select a restaurant:
-## Panda https://www.pandabrooklyn.com/
+## [Dim Sum](https://pacificanatogo.com/)
 ---
-Back to Asian  
-Start Over
+[Back to Asian](../asian.md)
+[Start Over](../home.md)

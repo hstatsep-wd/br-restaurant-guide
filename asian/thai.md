@@ -2,7 +2,7 @@
 ## Asian --> Thai
 ---
 Select a restaurant:
-## Glow Thai http://www.glowthairestaurant.com/
+## [Thai Food](https://www.savorythainyc.com/)
 ---
-Back to Asian
-Start Over
+[Back to Asian](../asian.md)
+[Start Over](../home.md)

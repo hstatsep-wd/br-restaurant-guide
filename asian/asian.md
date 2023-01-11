@@ -2,8 +2,9 @@
 ## Asian
 ---
 Select a specific Asian food:
-## Chinese
-## Japanese
-## Thai
+
+## [Dim Sum](https://pacificanatogo.com/)
+## [Sushi](https://www.sushimeshuna.com/)
+## [Thai Food](https://www.savorythainyc.com/)
 ---
-Start Over
+[Start Over](../home.md)
