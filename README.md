@@ -30,7 +30,18 @@ This will be the workflow for most _(but not all)_ pair activities. `Git` used t
 1. Notice that the **American** section is completely finished.  All links direct the user to the appropriate file/website.
 
     a. _**IMPORTANT**: the links will probably only work when viewed on GitHub (if you try clicking them in your IDE preview, you will likely get an error)._ So `push` to Github to test out the links!
-2. Your task is to update the links for the entire **Asian** section.  The restaurants are divided into sub-categories of Asian food.
+2. Your task is to update the links for the entire **Asian** section. The restaurants are divided into sub-categories of Asian food. Here is your todo list:
+
+* `home.md`
+  * **Asian** --> _needs to go to_ --> `asian.md`
+* `asian.md`
+  * **Chinese** --> _needs to go to_ --> `chinese.md`
+  * **Japanese** --> _needs to go to_ --> `japanese.md`
+  * **Thai** --> _needs to go to_ --> `thai.md`
+  * All 3 need **Back to Asian** links
+  * All 3 need proper external links
+    * See `american.md` for examples
+* **Start over** --> _needs to go to_ --> `home.md` (for all files)
 
 NOTE: You are doing this collaboratively!  Split up the work, add/commit/push, and pull & resolve conflicts when necessary.  This activity serves two purposes: **practice linking files** and **practice collaboration**.
 
