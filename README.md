@@ -40,6 +40,7 @@ This will be the workflow for most _(but not all)_ pair activities. `Git` used t
   * **Thai** --> _needs to go to_ --> `thai.md`
   * All 3 need **Back to Asian** links
   * All 3 need proper external links
+    * The text/URLs are already there. All you need to do is add the correct symbols.
     * See `american.md` for examples
 * **Start over** --> _needs to go to_ --> `home.md` (for all files)
 
