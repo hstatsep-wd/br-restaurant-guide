@@ -9,8 +9,8 @@ Click [here](home.md) to begin!
 
 ## Task 0: Study the directory structure
 
-1. Observe the files that are in the root directory of this repository:
-  a. `README.md` is these directions
+1. Observe the files that are in the root directory of this repository:  
+  a. `README.md` is these directions  
   b. `home.md` is where the user begins
 2. Explore the folders and the files inside of them.
 
