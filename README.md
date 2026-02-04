@@ -29,7 +29,10 @@ This will be the workflow for most _(but not all)_ pair activities. `Git` used t
 
 1. Notice that the **American** section is completely finished.  All links direct the user to the appropriate file/website.
 
-    a. _**IMPORTANT**: the links will probably only work when viewed on GitHub (if you try clicking them in your IDE preview, you will likely get an error)._ So `push` to Github to test out the links!
+    a. _**IMPORTANT**: Use the magnifying glass icon to preview your markdown files in order to test the links._ ![](https://hstatsep.github.io/code50/open-preview.png).
+
+   _They should also work correctly when you_ `push` _to Github._
+   
 2. Your task is to update the links for the entire **Asian** section. The restaurants are divided into sub-categories of Asian food. Here is your todo list:
 
 * `home.md`
